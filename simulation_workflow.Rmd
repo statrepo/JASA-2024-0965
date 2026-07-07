@@ -247,7 +247,7 @@ setwd(old_dir)
 
 # Rerunning simulations
 
-The following chunks are set to `eval=FALSE` because the simulations are computationally intensive. Before running them, check the parameter settings listed in the tables above and in the header of each script.
+The following chunks are set to `eval=FALSE` because the simulations are relatively time-consuming. Before running them, check the parameter settings listed in the tables above and in the header of each script.
 
 ```{r rerun-main-spd, eval=FALSE}
 old_dir <- getwd()
