@@ -191,7 +191,7 @@ setwd(old_dir)
 
 # Rerunning real data analyses
 
-The following chunks are set to `eval=FALSE` because the analyses use parallel computation and may take substantial time. Before running them, check the intended values of parameters such as `n1` and `ratios`.
+The following chunks are set to `eval=FALSE` because the analyses use parallel computation and may take some computational time. Before running them, check the intended values of parameters such as `n1` and `ratios`.
 
 ```{r rerun-original-face-analysis, eval=FALSE}
 old_dir <- getwd()
