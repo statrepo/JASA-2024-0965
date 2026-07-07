@@ -1,0 +1,37 @@
+# R session and user-local files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# R Markdown / knitr caches
+*_cache/
+*_files/
+
+# R package build/check artifacts
+.Rcheck/
+*.Rout
+
+# LaTeX intermediates from document rendering
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Temporary editor files
+*~
+*.tmp
+*.swp
+*.swo
